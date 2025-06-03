@@ -22,7 +22,7 @@ cd detect-anomalous-logons
 ```
 2. Open PowerShell as Administrator
 3. Run the script:
-```powershell
+```PowerShell
 .\detect-anomalous-logons.ps1
 ```
 
