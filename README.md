@@ -14,5 +14,10 @@ This PowerShell script identifies successful interactive (LogonType 2) and remot
 - Basic detection engineering
 
 ## How to Run
-'''powershell
+```powershell
 .\detect-anomalous-logons.ps1
+
+```
+
+## Example Output
+![Script Output](Script%20Results.png)
